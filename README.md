@@ -32,3 +32,8 @@ Php pages to connect the table with buttons. Also, to fetch and print the direct
 ![image](https://user-images.githubusercontent.com/86400246/123531706-832a4980-d70f-11eb-87f4-00a49ddba0b9.png)
 
 By using Css code to adjust the screen size with the mobile users.
+
+## Fetch and print The Last Record:
+![image](https://user-images.githubusercontent.com/86400246/123531877-e8cb0580-d710-11eb-9f2f-2c6bb58c508a.png)
+
+
