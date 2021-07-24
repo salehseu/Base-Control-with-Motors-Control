@@ -1,4 +1,4 @@
-# Rebot arms control with Rebot base control 
+# Robot arms control with Robot base control 
 
 ## Here the task#1 has been combined with the current task (Task#2). 
 
